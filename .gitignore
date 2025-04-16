@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Node dependencies
+node_modules/
+.env
+pm2.log
+
+# Logs
+*.log
+
+# Mac & VS Code system files
+.DS_Store
+.vscode/
